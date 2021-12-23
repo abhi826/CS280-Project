@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/17323/Desktop/c++ prog/cs280/PA3/lex.h
+string
+-
+iostream
+-
+map
+-
+
+C:/Users/17323/Desktop/c++ prog/cs280/PA3/parserInt.cpp
+parserInt.h
+C:/Users/17323/Desktop/c++ prog/cs280/PA3/parserInt.h
+
+C:/Users/17323/Desktop/c++ prog/cs280/PA3/parserInt.h
+iostream
+-
+lex.h
+C:/Users/17323/Desktop/c++ prog/cs280/PA3/lex.h
+val.h
+C:/Users/17323/Desktop/c++ prog/cs280/PA3/val.h
+
+C:/Users/17323/Desktop/c++ prog/cs280/PA3/val.h
+iostream
+-
+string
+-
+queue
+-
+map
+-
+
